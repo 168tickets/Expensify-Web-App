@@ -1,0 +1,8 @@
+@import './base/settings';
+@import './base/base'; // do not use the _ or the .scss - not _base.scss
+
+.content {
+  display: flex;
+  color: red;
+  
+}
